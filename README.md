@@ -1,6 +1,7 @@
+# Healthcare Data Pipeline
+This project was created by [minhky2185](https://github.com/minhky2185), and I am currently working on it and enhancing it.
 
-# **Healthcare Data Pipeline**
-The project aims to build a single source of true data storage for large healthcare datasets using Spark and S3. Some dashboards are also made in this project for visualization.
+The project aims to build a single source of true data storage for large healthcare datasets using Spark and S3. Some dashboards have also been made for visualization in this project.
 
 
 
